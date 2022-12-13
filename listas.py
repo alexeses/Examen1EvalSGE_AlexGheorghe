@@ -1,5 +1,13 @@
 from random import randint
 
+#
+# Examen de programación basada en Python - 2022
+# Nombre: Alex Gheorghe
+# Fecha: 2022-12-13
+#
+# Ejericio 01
+#
+
 if __name__ == '__main__':
 
     # Creamos una lista de 50 números enteros aleatorios

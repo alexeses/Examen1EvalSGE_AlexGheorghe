@@ -1,4 +1,12 @@
 
+#
+# Examen de programación basada en Python - 2022
+# Nombre: Alex Gheorghe
+# Fecha: 2022-12-13
+#
+# Ejericio 02
+#
+
 if __name__ == '__main__':
     # Pedimos al usuario que ingrese una frase y una letra
     frase = input("Ingrese una frase: ")

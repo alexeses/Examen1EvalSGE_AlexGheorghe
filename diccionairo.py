@@ -1,6 +1,13 @@
+#
+# Examen de programación basada en Python - 2022
+# Nombre: Alex Gheorghe
+# Fecha: 2022-12-13
+#
+# Ejericio 03
+#
 
 if __name__ == '__main__':
-  # Creamos un diccionario que asocie cada palabra en español con su traducción en inglés
+    #   Creamos un diccionario que asocie cada palabra en español con su traducción en inglés
   diccionario = {"hola": "hello", "adiós": "bye", "amor": "love", "cielo": "sky", "mar": "sea", "día": "day",
                  "noche": "night", "año": "year"}
 
